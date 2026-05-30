@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="card_dark">#1A1A1A</color>
+    <color name="card_normal">#0D1F0D</color>
+    <color name="card_alert">#1F0D0D</color>
+    <color name="card_calling">#1A0505</color>
+    <color name="card_stopped">#1A1200</color>
+
+    <!-- Status colors -->
+    <color name="status_normal">#00E676</color>
+    <color name="status_alert">#FF1744</color>
+    <color name="status_calling">#FF1744</color>
+    <color name="status_stopped">#FFA000</color>
+
+    <!-- General -->
+    <color name="white">#FFFFFF</color>
+    <color name="btn_call">#1B5E20</color>
+    <color name="btn_call_dark">#0A3D12</color>
+    <color name="btn_sms">#0D47A1</color>
+    <color name="btn_sms_dark">#062C6B</color>
+    <color name="btn_outline_border">#444444</color>
+    <color name="green_dot">#00E676</color>
+    <color name="red_dot">#FF1744</color>
+</resources>

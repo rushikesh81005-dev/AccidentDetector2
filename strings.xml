@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accident Detector</string>
+    <string name="status_normal">SYSTEM NORMAL</string>
+    <string name="status_alert">ACCIDENT DETECTED</string>
+    <string name="status_calling">CALLING EMERGENCY</string>
+    <string name="status_stopped">ALERT CANCELLED</string>
+    <string name="no_contact">No emergency contact selected. Please select a contact first.</string>
+    <string name="permission_denied">Permission denied. Please grant the required permissions in Settings.</string>
+    <string name="sms_template">🚨 ACCIDENT DETECTED! My location: https://maps.google.com?q=%1$s,%2$s — Please help immediately!</string>
+</resources>

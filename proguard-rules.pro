@@ -1,0 +1,3 @@
+-keep class com.accidentdetector.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
